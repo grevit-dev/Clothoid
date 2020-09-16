@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clothoid", "Clothoid.csproj", "{3EF9CAB0-2C90-4287-A583-E50920D4D89C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamoid", "Dynamoid\Dynamoid.csproj", "{C9B4DAA1-86DF-46E6-8A31-48C46B963C2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3EF9CAB0-2C90-4287-A583-E50920D4D89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF9CAB0-2C90-4287-A583-E50920D4D89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF9CAB0-2C90-4287-A583-E50920D4D89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B4DAA1-86DF-46E6-8A31-48C46B963C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B4DAA1-86DF-46E6-8A31-48C46B963C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B4DAA1-86DF-46E6-8A31-48C46B963C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B4DAA1-86DF-46E6-8A31-48C46B963C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
