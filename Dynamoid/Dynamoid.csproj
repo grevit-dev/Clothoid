@@ -73,7 +73,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Clothoid.csproj">
+    <ProjectReference Include="..\Clothoid\Clothoid.csproj">
       <Project>{3ef9cab0-2c90-4287-a583-e50920d4d89c}</Project>
       <Name>Clothoid</Name>
     </ProjectReference>
