@@ -62,7 +62,7 @@ namespace Dynamoid
             switch (result)
             {
                 case -1:
-                    throw new Exception("Circle and Line are intersecting.");
+                    throw new Exception("Circle and Circle are intersecting.");
                 case 1:
                     throw new Exception("Connecting clothoid becomes too long.");
             }
