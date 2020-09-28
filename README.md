@@ -2,13 +2,13 @@
 
 Dynamoid is a set of Components for the visual coding environment Autodesk (R) Dynamo for creating [Clothoid or Euler spiral geometries](https://en.wikipedia.org/wiki/Euler_spiral). This implementation uses Mamitko's C# Clothoid implementation that provides circle to circle and line to circle fitting.
 
-## Components
+## Clothoid Components
 
-- ByCircleCircleFitting: creates a clothoid by circle to circle fitting
+- ByCircleAndCircle: creates a clothoid by circle to circle fitting
 
-- ByCircleLineFitting: creates a clothoid by circle to line fitting
+- ByLineAndCircle: creates a clothoid by circle to line fitting
 
-- ByFactors: creates a clothoid by input factors
+- ByParameters: creates a clothoid by input factors
 
 ## Screenshot
 
