@@ -10,6 +10,10 @@ Dynamoid is a set of Components for the visual coding environment Autodesk (R) D
 
 - ByParameters: creates a clothoid by input factors
 
-## Screenshot
+## Screenshots
 
-![clothoid](https://user-images.githubusercontent.com/8201465/94343200-d7848980-0016-11eb-88a0-5fe680c7e6d2.png)
+![clothoid1](https://user-images.githubusercontent.com/8201465/94343200-d7848980-0016-11eb-88a0-5fe680c7e6d2.png)
+
+![Clothoid2](https://user-images.githubusercontent.com/8201465/94526464-d8473680-0235-11eb-816b-41c699df8000.png)
+
+![Clothoid3](https://user-images.githubusercontent.com/8201465/94526469-d9786380-0235-11eb-868c-f5aaee565261.png)
